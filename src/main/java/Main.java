@@ -32,6 +32,7 @@ public class Main {
           else {
               System.out.println("You are underweight. You should see your doctor.");
           }
+          break;
         }
         catch (InputMismatchException fe){
           System.out.println("You did not enter an integer. Please try again.");

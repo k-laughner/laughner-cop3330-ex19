@@ -3,7 +3,7 @@
  *  Copyright 2021 Kaylee Laughner
  */
 import java.util.Scanner;
-import java.util.*;
+import java.util.InputMismatchException;
 
 public class Main {
     static Scanner console = new Scanner (System.in);
